@@ -1,9 +1,7 @@
 ### Windows OS ###
 /.idea/
-/demo4.iml
 /NKP_Java_Automation.iml
 
-### Mac OS ###
+### Unix OS ###
 \.idea\
-\demo4.iml
 \NKP_Java_Automation.iml
