@@ -1,0 +1,7 @@
+*** Windows OS ***
+/.idea/
+/demo4.iml
+
+*** Mac OS ***
+\.idea\
+\demo4.iml
