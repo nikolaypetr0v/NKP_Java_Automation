@@ -1,7 +1,9 @@
 ### Windows OS ###
 /.idea/
 /NKP_Java_Automation.iml
+/out/
 
 ### Unix OS ###
 \.idea\
 \NKP_Java_Automation.iml
+\out\
