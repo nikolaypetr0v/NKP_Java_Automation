@@ -1,4 +1,4 @@
-package main.java;
+package main.java.lab4.examples;
 
 public class LogicalOperatorsDemo {
     public static void main(String[] args) {

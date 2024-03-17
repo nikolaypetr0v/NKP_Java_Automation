@@ -1,4 +1,4 @@
-package main.java;
+package main.java.lab4.examples;
 
 import java.io.ByteArrayInputStream;
 import java.util.Scanner;
