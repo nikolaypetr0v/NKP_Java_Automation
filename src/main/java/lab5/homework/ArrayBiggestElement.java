@@ -23,6 +23,7 @@ public class ArrayBiggestElement {
             arr[i] = scanner.nextInt();
         }
 
+        //Looking for the biggest integer element in the array
         biggestElem = arr[0];
         for (i = 1; i < arr.length; i++) {
             if(arr[i] > biggestElem){
