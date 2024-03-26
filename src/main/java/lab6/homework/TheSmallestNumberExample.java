@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class TheSmallestNumberExample {
     public static void main(String[] args) {
+        /*
+        1. Write a Java method to find the smallest number among three numbers.
+         */
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter three numbers:");
         double[] threeNumArray = new double[3];

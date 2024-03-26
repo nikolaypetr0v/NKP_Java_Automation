@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class AverageOfThreeNums {
     public static void main(String[] args) {
+        /*
+        2. Write a Java method to compute the average of three numbers.
+         */
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter three numbers:");
         double firstNumber = scanner.nextDouble();
